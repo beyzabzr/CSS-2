@@ -1,0 +1,58 @@
+/************************************************ HTML tag-Css ************************************************/
+img {
+    display: block;
+    margin: 10px auto 0px;
+}
+
+tbody, tr, th{
+    padding: 0px;
+    margin: 0px;
+    font-weight: normal;
+}
+
+footer {
+    margin: auto;
+    width: 90.2%;   
+}
+
+table {
+    width: 100%; 
+    margin-left: auto ;
+    margin-right: auto;
+}
+
+p {
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    font-size: 15px;
+    line-height: 15px;
+
+}
+
+/************************************************ class (search section / center ) CSS ************************************************/
+
+.search-section {
+    background-color: #eeeeee;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.center {
+    text-align: center;
+}
+
+/************************************************ id (table in -> td-1 / td-2 / td-3) CSS ************************************************/
+
+#td-1 {
+    width: 37%;
+    background-color: rgb(126, 229, 218);
+}
+
+#td-2 {
+    background-color: rgb(112, 204, 194);
+}
+
+#td-3 {
+    background-color: rgb(98, 179, 170);
+}
